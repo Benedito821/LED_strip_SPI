@@ -1,1 +1,1 @@
-Driving a LED strip through SPI on the STM32WB55 
+Driving a LED strip through SPI on STM32WB55 
